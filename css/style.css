@@ -425,5 +425,8 @@ body{
 
 
 .delete{
-    background-color: #82BC00;
+    background-color: #82BC00;   
+}
+.delete h1{
+    font-weight: bold;
 }
